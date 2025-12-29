@@ -1,0 +1,20 @@
+p { 
+     text-align:center;
+     text-decoration:underline;
+     letter-spacing:2px;
+     line-height:30px;
+     font-size:20px;
+     font-family:Arial;
+     color:blue;
+     }
+     img{
+     border:solid;
+     border-size:20px;
+     padding:5px;
+     }
+     
+     img:hover{
+     transform-scale:(1.15);
+     border-radius:15px;
+     transition-duration:25;
+     }
